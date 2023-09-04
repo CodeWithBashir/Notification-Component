@@ -1,5 +1,7 @@
 # Notification-Component
-![notifications_3](https://github.com/CodeWithBashir/Notification-Component/assets/87351419/c4ec6a60-f7b8-47f5-8f90-272761e09644)
+
+<img width="1035" alt="Notification-Component" src="https://github.com/CodeWithBashir/Notification-Component/assets/87351419/eef20c6b-c520-47ac-bfc8-bd69c44848eb">
+
 
 # Day 03 of Day 30 Challenge
 

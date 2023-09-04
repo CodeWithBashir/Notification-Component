@@ -1,5 +1,5 @@
 # Notification-Component
-
+## Check the live site : https://notification-component-bashir.netlify.app/
 <img width="1035" alt="Notification-Component" src="https://github.com/CodeWithBashir/Notification-Component/assets/87351419/eef20c6b-c520-47ac-bfc8-bd69c44848eb">
 
 
